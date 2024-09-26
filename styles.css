@@ -49,3 +49,11 @@ p {
 .bg-text {
     color: rgb(57, 57, 57);
 }
+
+@media(min-width: 700px) {
+    body {
+        width: 100vw;
+        height: 100vh;
+    }
+
+}
